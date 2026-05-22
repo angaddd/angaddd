@@ -58,17 +58,17 @@
 
 ### Frontend
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
 </p>
 
 ### Backend & Databases
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
 </p>
 
 ### Tools & Technologies
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman" />
 </p>
 
 ---
@@ -97,14 +97,6 @@
 # 📈 Contribution Graph
 
 [![Angad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aatom003&theme=tokyo-night)](https://github.com/Aatom003)
-
----
-
-# 🐍 Snake Eating Contributions
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Aatom003/Aatom003/output/snake.svg" alt="snake animation" />
-</p>
 
 ---
 
