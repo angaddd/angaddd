@@ -120,14 +120,6 @@
 
 ---
 
-# 👀 Profile Views
-
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=Aatom003&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
-</p>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
 </p>
