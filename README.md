@@ -96,7 +96,7 @@
 
 # 📈 Contribution Graph
 
-[![Angad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Aatom003&theme=tokyo-night)](https://github.com/Aatom003)
+[![Angad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=angaddd&theme=tokyo-night)](https://github.com/Aatom003)
 
 ---
 
